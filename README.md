@@ -6,4 +6,5 @@ Hey, I’m Deetya!
 - 🤝 **linkedin:** www.linkedin.com/in/deetya-kamat-306827207
 
 **Languages:** Java, C, JavaScript
-**Technologies & Frameworks:** Microsoft Office
+
+**Technologies & Frameworks:** Microsoft Office, Figma
