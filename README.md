@@ -5,6 +5,6 @@ Hey, I’m Deetya!
 - ✉️ **email:** deetyk@cs.washington.edu
 - 🤝 **linkedin:** www.linkedin.com/in/deetya-kamat-306827207
 
-**Languages:** Java, C, JavaScript
+**Languages:** Java, C, JavaScript, Dart
 
-**Technologies & Frameworks:** Microsoft Office, Figma
+**Technologies & Frameworks:** Microsoft Office, Figma, Linux/UNIX, Git Version Control
