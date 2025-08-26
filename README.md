@@ -1,10 +1,10 @@
 Hey, I’m Deetya!
 
-- 💡 **interested in:** mobile and web development, software engineering, and biotechnology
-- 🔎 **looking to**: gain experience while contributing to open-source projects
-- ✉️ **email:** deetyk@cs.washington.edu
-- 🤝 **linkedin:** www.linkedin.com/in/deetya-kamat
+- 💡 **Interested in:** mobile and web development, software engineering, and biotechnology
+- 🔎 **Looking to**: gain experience while contributing to open-source projects
+- ✉️ **Email:** deetyk@cs.washington.edu
+- 🤝 **LinkedIn:** www.linkedin.com/in/deetya-kamat
 
-**Languages:** Java, C, JavaScript, Dart
+**Languages:** Java, Python, C, C++, JavaScript/TypeScript
 
-**Technologies & Frameworks:** Microsoft Office, Figma, Linux/UNIX, Git Version Control
+**Technologies & Frameworks:** React, Flutter/Dart, Pandas, NumPy, Scikit-learn, Linux/UNIX, Git, Figma, OAuth 2.0, REST APIs
